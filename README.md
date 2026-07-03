@@ -82,10 +82,3 @@
 | 최민혁 | 관광지/숙소 정보 관리, 공공 API 연동 |
 
 ---
-
-## 🚀 실행 방법
-
-\`\`\`bash
-./gradlew build
-./gradlew bootRun
-\`\`\`
